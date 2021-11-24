@@ -1,0 +1,86 @@
+
+{"bk":[
+	{
+		"BookName":"Politics of Opportunism",
+		"Writer":"R P N Singh",
+		"PublishingDate": "2014",
+		"Rating": "4.5"
+	},
+	
+]}
+
+/*
+var book = [
+	{
+		Book Name: 'Politics of Opportunism',
+		Writer : 'R P N Singh',
+		Publishing Date : 2014,
+		Rating : 4.5
+	},
+	{
+		Book Name: 'Malayalam poetry',
+		Writer : 'Akkitham Achuthan Namboodri',
+		Publishing Date : 1989,
+		Rating : 4.4
+	},
+	{
+		Book Name: 'The Testaments',
+		Writer : 'Margaret Atwood',
+		Publishing Date : 2019,
+		Rating : 3.1
+	},
+	{
+		Book Name: 'Celestial Bodies',
+		Writer : 'Jokha Alharthi',
+		Publishing Date : 2001,
+		Rating : 3.2
+	},
+	{
+		Book Name: 'Cheque book',
+		Writer : 'Vasdev Mohi',
+		Publishing Date : 2005,
+		Rating : 5.0
+	},
+	{
+		Book Name: 'The Overstory',
+		Writer : 'Richard Powers',
+		Publishing Date : 2009,
+		Rating : 4.9
+	},
+	{
+		Book Name: 'The Braille edition of the book Exam Warriors',
+		Writer : 'PM Narendra Modi',
+		Publishing Date : 2011,
+		Rating : 4.8
+	},
+	{
+		Book Name: 'Mind-Master',
+		Writer : 'Viswanathan Anand and Susan Ninan',
+		Publishing Date : 2012,
+		Rating : 3.4
+	},
+	{
+		Book Name: 'Sridevi: Girl Woman Superstar',
+		Writer : 'Satyarth Nayak',
+		Publishing Date : 1995,
+		Rating : 3.6
+	},
+	{
+		Book Name: 'Vivekadeepini',
+		Writer : 'Adi Shankaracharya',
+		Publishing Date : 1984,
+		Rating : 3.4
+	},
+	{
+		Book Name: 'Listening, Learning and Leading',
+		Writer : 'Venkaiah Naidu',
+		Publishing Date : 1975,
+		Rating : 4.7
+	},
+	{
+		Book Name: ''My Life, My Mission'',
+		Writer : 'Baba Ramdev',
+		Publishing Date : 2006,
+		Rating : 4.6
+	},
+]
